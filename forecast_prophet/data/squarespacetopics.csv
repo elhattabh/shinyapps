@@ -1,0 +1,566 @@
+date,category,chat_topic,count
+1/1/2016,chat,Adding and editing pages and blocks,2
+1/1/2016,chat,All Topics,6
+1/1/2016,chat,"Billing, signup and payments",1
+1/1/2016,chat,Domains and email services,2
+1/1/2016,chat,Getting Started with Squarespace,1
+1/1/2016,email,Adding and editing pages and blocks,68
+1/1/2016,email,All Topics,368
+1/1/2016,email,"Billing, signup and payments",92
+1/1/2016,email,"Commerce, and managing your store",41
+1/1/2016,email,Designing your site and managing your template,51
+1/1/2016,email,Domains and email services,40
+1/1/2016,email,"Galleries, images, and videos",19
+1/1/2016,email,Getting Started with Squarespace,26
+1/1/2016,email,Logging in and managing your account,21
+1/1/2016,email,SEO and metrics,10
+1/1/2016,emails&chats,All Topics,374
+1/2/2016,chat,All Topics,1
+1/2/2016,chat,Designing your site and managing your template,1
+1/2/2016,email,Adding and editing pages and blocks,171
+1/2/2016,email,All Topics,810
+1/2/2016,email,"Billing, signup and payments",198
+1/2/2016,email,"Commerce, and managing your store",58
+1/2/2016,email,Designing your site and managing your template,99
+1/2/2016,email,Domains and email services,92
+1/2/2016,email,"Galleries, images, and videos",56
+1/2/2016,email,Getting Started with Squarespace,56
+1/2/2016,email,Logging in and managing your account,59
+1/2/2016,email,SEO and metrics,21
+1/2/2016,emails&chats,All Topics,811
+1/3/2016,email,Adding and editing pages and blocks,203
+1/3/2016,email,All Topics,1030
+1/3/2016,email,"Billing, signup and payments",257
+1/3/2016,email,"Commerce, and managing your store",48
+1/3/2016,email,Designing your site and managing your template,146
+1/3/2016,email,Domains and email services,129
+1/3/2016,email,"Galleries, images, and videos",78
+1/3/2016,email,Getting Started with Squarespace,78
+1/3/2016,email,Logging in and managing your account,65
+1/3/2016,email,SEO and metrics,26
+1/3/2016,emails&chats,All Topics,1030
+1/4/2016,chat,Adding and editing pages and blocks,446
+1/4/2016,chat,All Topics,2207
+1/4/2016,chat,"Billing, signup and payments",374
+1/4/2016,chat,"Commerce, and managing your store",104
+1/4/2016,chat,Designing your site and managing your template,337
+1/4/2016,chat,Domains and email services,455
+1/4/2016,chat,"Galleries, images, and videos",147
+1/4/2016,chat,Getting Started with Squarespace,180
+1/4/2016,chat,Logging in and managing your account,115
+1/4/2016,chat,SEO and metrics,49
+1/4/2016,email,Adding and editing pages and blocks,289
+1/4/2016,email,All Topics,1637
+1/4/2016,email,"Billing, signup and payments",483
+1/4/2016,email,"Commerce, and managing your store",106
+1/4/2016,email,Designing your site and managing your template,240
+1/4/2016,email,Domains and email services,182
+1/4/2016,email,"Galleries, images, and videos",87
+1/4/2016,email,Getting Started with Squarespace,99
+1/4/2016,email,Logging in and managing your account,102
+1/4/2016,email,SEO and metrics,49
+1/4/2016,emails&chats,All Topics,3844
+1/5/2016,chat,Adding and editing pages and blocks,450
+1/5/2016,chat,All Topics,2173
+1/5/2016,chat,"Billing, signup and payments",322
+1/5/2016,chat,"Commerce, and managing your store",87
+1/5/2016,chat,Designing your site and managing your template,311
+1/5/2016,chat,Domains and email services,468
+1/5/2016,chat,"Galleries, images, and videos",166
+1/5/2016,chat,Getting Started with Squarespace,186
+1/5/2016,chat,Logging in and managing your account,122
+1/5/2016,chat,SEO and metrics,61
+1/5/2016,email,Adding and editing pages and blocks,295
+1/5/2016,email,All Topics,1670
+1/5/2016,email,"Billing, signup and payments",507
+1/5/2016,email,"Commerce, and managing your store",86
+1/5/2016,email,Designing your site and managing your template,216
+1/5/2016,email,Domains and email services,216
+1/5/2016,email,"Galleries, images, and videos",100
+1/5/2016,email,Getting Started with Squarespace,107
+1/5/2016,email,Logging in and managing your account,103
+1/5/2016,email,SEO and metrics,40
+1/5/2016,emails&chats,All Topics,3843
+1/6/2016,chat,Adding and editing pages and blocks,493
+1/6/2016,chat,All Topics,2094
+1/6/2016,chat,"Billing, signup and payments",298
+1/6/2016,chat,"Commerce, and managing your store",120
+1/6/2016,chat,Designing your site and managing your template,337
+1/6/2016,chat,Domains and email services,388
+1/6/2016,chat,"Galleries, images, and videos",136
+1/6/2016,chat,Getting Started with Squarespace,172
+1/6/2016,chat,Logging in and managing your account,107
+1/6/2016,chat,SEO and metrics,43
+1/6/2016,email,Adding and editing pages and blocks,238
+1/6/2016,email,All Topics,1407
+1/6/2016,email,"Billing, signup and payments",457
+1/6/2016,email,"Commerce, and managing your store",77
+1/6/2016,email,Designing your site and managing your template,180
+1/6/2016,email,Domains and email services,169
+1/6/2016,email,"Galleries, images, and videos",87
+1/6/2016,email,Getting Started with Squarespace,84
+1/6/2016,email,Logging in and managing your account,82
+1/6/2016,email,SEO and metrics,33
+1/6/2016,emails&chats,All Topics,3501
+1/7/2016,chat,Adding and editing pages and blocks,483
+1/7/2016,chat,All Topics,2098
+1/7/2016,chat,"Billing, signup and payments",305
+1/7/2016,chat,"Commerce, and managing your store",56
+1/7/2016,chat,Designing your site and managing your template,361
+1/7/2016,chat,Domains and email services,381
+1/7/2016,chat,"Galleries, images, and videos",180
+1/7/2016,chat,Getting Started with Squarespace,168
+1/7/2016,chat,Logging in and managing your account,112
+1/7/2016,chat,SEO and metrics,52
+1/7/2016,email,Adding and editing pages and blocks,218
+1/7/2016,email,All Topics,1531
+1/7/2016,email,"Billing, signup and payments",595
+1/7/2016,email,"Commerce, and managing your store",78
+1/7/2016,email,Designing your site and managing your template,179
+1/7/2016,email,Domains and email services,146
+1/7/2016,email,"Galleries, images, and videos",99
+1/7/2016,email,Getting Started with Squarespace,94
+1/7/2016,email,Logging in and managing your account,86
+1/7/2016,email,SEO and metrics,35
+1/7/2016,email,Squarespace Mobile Apps,1
+1/7/2016,emails&chats,All Topics,3629
+1/8/2016,chat,Adding and editing pages and blocks,403
+1/8/2016,chat,All Topics,1708
+1/8/2016,chat,"Billing, signup and payments",215
+1/8/2016,chat,"Commerce, and managing your store",74
+1/8/2016,chat,Designing your site and managing your template,283
+1/8/2016,chat,Domains and email services,317
+1/8/2016,chat,"Galleries, images, and videos",122
+1/8/2016,chat,Getting Started with Squarespace,158
+1/8/2016,chat,Logging in and managing your account,84
+1/8/2016,chat,SEO and metrics,52
+1/8/2016,email,Adding and editing pages and blocks,182
+1/8/2016,email,All Topics,1138
+1/8/2016,email,"Billing, signup and payments",372
+1/8/2016,email,"Commerce, and managing your store",71
+1/8/2016,email,Designing your site and managing your template,161
+1/8/2016,email,Domains and email services,116
+1/8/2016,email,"Galleries, images, and videos",63
+1/8/2016,email,Getting Started with Squarespace,67
+1/8/2016,email,Logging in and managing your account,73
+1/8/2016,email,SEO and metrics,32
+1/8/2016,email,Squarespace Mobile Apps,1
+1/8/2016,emails&chats,All Topics,2846
+1/9/2016,chat,Adding and editing pages and blocks,1
+1/9/2016,chat,All Topics,3
+1/9/2016,chat,Designing your site and managing your template,1
+1/9/2016,chat,Logging in and managing your account,1
+1/9/2016,email,Adding and editing pages and blocks,170
+1/9/2016,email,All Topics,782
+1/9/2016,email,"Billing, signup and payments",197
+1/9/2016,email,"Commerce, and managing your store",47
+1/9/2016,email,Designing your site and managing your template,110
+1/9/2016,email,Domains and email services,92
+1/9/2016,email,"Galleries, images, and videos",50
+1/9/2016,email,Getting Started with Squarespace,53
+1/9/2016,email,Logging in and managing your account,43
+1/9/2016,email,SEO and metrics,20
+1/9/2016,emails&chats,All Topics,785
+1/10/2016,chat,All Topics,1
+1/10/2016,chat,"Galleries, images, and videos",1
+1/10/2016,email,Adding and editing pages and blocks,163
+1/10/2016,email,All Topics,845
+1/10/2016,email,"Billing, signup and payments",214
+1/10/2016,email,"Commerce, and managing your store",51
+1/10/2016,email,Designing your site and managing your template,130
+1/10/2016,email,Domains and email services,112
+1/10/2016,email,"Galleries, images, and videos",63
+1/10/2016,email,Getting Started with Squarespace,56
+1/10/2016,email,Logging in and managing your account,37
+1/10/2016,email,SEO and metrics,19
+1/10/2016,emails&chats,All Topics,846
+1/11/2016,chat,Adding and editing pages and blocks,556
+1/11/2016,chat,All Topics,2368
+1/11/2016,chat,"Billing, signup and payments",343
+1/11/2016,chat,"Commerce, and managing your store",115
+1/11/2016,chat,Designing your site and managing your template,394
+1/11/2016,chat,Domains and email services,440
+1/11/2016,chat,"Galleries, images, and videos",132
+1/11/2016,chat,Getting Started with Squarespace,200
+1/11/2016,chat,Logging in and managing your account,134
+1/11/2016,chat,SEO and metrics,54
+1/11/2016,email,Adding and editing pages and blocks,316
+1/11/2016,email,All Topics,1815
+1/11/2016,email,"Billing, signup and payments",545
+1/11/2016,email,"Commerce, and managing your store",90
+1/11/2016,email,Designing your site and managing your template,265
+1/11/2016,email,Domains and email services,203
+1/11/2016,email,"Galleries, images, and videos",116
+1/11/2016,email,Getting Started with Squarespace,119
+1/11/2016,email,Logging in and managing your account,117
+1/11/2016,email,SEO and metrics,44
+1/11/2016,emails&chats,All Topics,4183
+1/12/2016,chat,Adding and editing pages and blocks,476
+1/12/2016,chat,All Topics,2231
+1/12/2016,chat,"Billing, signup and payments",324
+1/12/2016,chat,"Commerce, and managing your store",112
+1/12/2016,chat,Designing your site and managing your template,372
+1/12/2016,chat,Domains and email services,427
+1/12/2016,chat,"Galleries, images, and videos",152
+1/12/2016,chat,Getting Started with Squarespace,195
+1/12/2016,chat,Logging in and managing your account,114
+1/12/2016,chat,SEO and metrics,59
+1/12/2016,email,Adding and editing pages and blocks,240
+1/12/2016,email,All Topics,1366
+1/12/2016,email,"Billing, signup and payments",397
+1/12/2016,email,"Commerce, and managing your store",79
+1/12/2016,email,Designing your site and managing your template,189
+1/12/2016,email,Domains and email services,136
+1/12/2016,email,"Galleries, images, and videos",90
+1/12/2016,email,Getting Started with Squarespace,102
+1/12/2016,email,Logging in and managing your account,90
+1/12/2016,email,SEO and metrics,43
+1/12/2016,emails&chats,All Topics,3597
+1/13/2016,chat,Adding and editing pages and blocks,512
+1/13/2016,chat,All Topics,2233
+1/13/2016,chat,"Billing, signup and payments",268
+1/13/2016,chat,"Commerce, and managing your store",120
+1/13/2016,chat,Designing your site and managing your template,392
+1/13/2016,chat,Domains and email services,382
+1/13/2016,chat,"Galleries, images, and videos",155
+1/13/2016,chat,Getting Started with Squarespace,204
+1/13/2016,chat,Logging in and managing your account,140
+1/13/2016,chat,SEO and metrics,60
+1/13/2016,email,Adding and editing pages and blocks,239
+1/13/2016,email,All Topics,1298
+1/13/2016,email,"Billing, signup and payments",344
+1/13/2016,email,"Commerce, and managing your store",120
+1/13/2016,email,Designing your site and managing your template,169
+1/13/2016,email,Domains and email services,130
+1/13/2016,email,"Galleries, images, and videos",73
+1/13/2016,email,Getting Started with Squarespace,95
+1/13/2016,email,Logging in and managing your account,94
+1/13/2016,email,SEO and metrics,34
+1/13/2016,emails&chats,All Topics,3531
+1/14/2016,chat,Adding and editing pages and blocks,413
+1/14/2016,chat,All Topics,1749
+1/14/2016,chat,"Billing, signup and payments",237
+1/14/2016,chat,"Commerce, and managing your store",92
+1/14/2016,chat,Designing your site and managing your template,284
+1/14/2016,chat,Domains and email services,290
+1/14/2016,chat,"Galleries, images, and videos",143
+1/14/2016,chat,Getting Started with Squarespace,147
+1/14/2016,chat,Logging in and managing your account,99
+1/14/2016,chat,SEO and metrics,44
+1/14/2016,email,Adding and editing pages and blocks,242
+1/14/2016,email,All Topics,1355
+1/14/2016,email,"Billing, signup and payments",361
+1/14/2016,email,"Commerce, and managing your store",96
+1/14/2016,email,Designing your site and managing your template,235
+1/14/2016,email,Domains and email services,139
+1/14/2016,email,"Galleries, images, and videos",64
+1/14/2016,email,Getting Started with Squarespace,63
+1/14/2016,email,Logging in and managing your account,104
+1/14/2016,email,SEO and metrics,51
+1/14/2016,emails&chats,All Topics,3104
+1/15/2016,chat,Adding and editing pages and blocks,412
+1/15/2016,chat,All Topics,1862
+1/15/2016,chat,"Billing, signup and payments",260
+1/15/2016,chat,"Commerce, and managing your store",105
+1/15/2016,chat,Designing your site and managing your template,319
+1/15/2016,chat,Domains and email services,352
+1/15/2016,chat,"Galleries, images, and videos",119
+1/15/2016,chat,Getting Started with Squarespace,148
+1/15/2016,chat,Logging in and managing your account,100
+1/15/2016,chat,SEO and metrics,47
+1/15/2016,email,Adding and editing pages and blocks,235
+1/15/2016,email,All Topics,1314
+1/15/2016,email,"Billing, signup and payments",339
+1/15/2016,email,"Commerce, and managing your store",76
+1/15/2016,email,Designing your site and managing your template,200
+1/15/2016,email,Domains and email services,156
+1/15/2016,email,"Galleries, images, and videos",97
+1/15/2016,email,Getting Started with Squarespace,78
+1/15/2016,email,Logging in and managing your account,97
+1/15/2016,email,SEO and metrics,36
+1/15/2016,emails&chats,All Topics,3176
+1/16/2016,chat,All Topics,1
+1/16/2016,chat,Designing your site and managing your template,1
+1/16/2016,email,Adding and editing pages and blocks,157
+1/16/2016,email,All Topics,803
+1/16/2016,email,"Billing, signup and payments",170
+1/16/2016,email,"Commerce, and managing your store",61
+1/16/2016,email,Designing your site and managing your template,122
+1/16/2016,email,Domains and email services,86
+1/16/2016,email,"Galleries, images, and videos",54
+1/16/2016,email,Getting Started with Squarespace,82
+1/16/2016,email,Logging in and managing your account,32
+1/16/2016,email,SEO and metrics,39
+1/16/2016,emails&chats,All Topics,804
+1/17/2016,chat,All Topics,1
+1/17/2016,chat,Domains and email services,1
+1/17/2016,email,Adding and editing pages and blocks,152
+1/17/2016,email,All Topics,744
+1/17/2016,email,"Billing, signup and payments",173
+1/17/2016,email,"Commerce, and managing your store",53
+1/17/2016,email,Designing your site and managing your template,127
+1/17/2016,email,Domains and email services,93
+1/17/2016,email,"Galleries, images, and videos",57
+1/17/2016,email,Getting Started with Squarespace,49
+1/17/2016,email,Logging in and managing your account,27
+1/17/2016,email,SEO and metrics,13
+1/17/2016,emails&chats,All Topics,745
+1/18/2016,chat,Adding and editing pages and blocks,216
+1/18/2016,chat,All Topics,1008
+1/18/2016,chat,"Billing, signup and payments",128
+1/18/2016,chat,"Commerce, and managing your store",44
+1/18/2016,chat,Designing your site and managing your template,172
+1/18/2016,chat,Domains and email services,203
+1/18/2016,chat,"Galleries, images, and videos",70
+1/18/2016,chat,Getting Started with Squarespace,106
+1/18/2016,chat,Logging in and managing your account,47
+1/18/2016,chat,SEO and metrics,22
+1/18/2016,email,Adding and editing pages and blocks,245
+1/18/2016,email,All Topics,1518
+1/18/2016,email,"Billing, signup and payments",383
+1/18/2016,email,"Commerce, and managing your store",104
+1/18/2016,email,Designing your site and managing your template,236
+1/18/2016,email,Domains and email services,190
+1/18/2016,email,"Galleries, images, and videos",108
+1/18/2016,email,Getting Started with Squarespace,114
+1/18/2016,email,Logging in and managing your account,106
+1/18/2016,email,SEO and metrics,32
+1/18/2016,emails&chats,All Topics,2526
+1/19/2016,chat,Adding and editing pages and blocks,529
+1/19/2016,chat,All Topics,2399
+1/19/2016,chat,"Billing, signup and payments",356
+1/19/2016,chat,"Commerce, and managing your store",130
+1/19/2016,chat,Designing your site and managing your template,382
+1/19/2016,chat,Domains and email services,415
+1/19/2016,chat,"Galleries, images, and videos",168
+1/19/2016,chat,Getting Started with Squarespace,223
+1/19/2016,chat,Logging in and managing your account,132
+1/19/2016,chat,SEO and metrics,64
+1/19/2016,email,Adding and editing pages and blocks,379
+1/19/2016,email,All Topics,2072
+1/19/2016,email,"Billing, signup and payments",580
+1/19/2016,email,"Commerce, and managing your store",96
+1/19/2016,email,Designing your site and managing your template,304
+1/19/2016,email,Domains and email services,235
+1/19/2016,email,"Galleries, images, and videos",149
+1/19/2016,email,Getting Started with Squarespace,123
+1/19/2016,email,Logging in and managing your account,128
+1/19/2016,email,SEO and metrics,78
+1/19/2016,emails&chats,All Topics,4471
+1/20/2016,chat,Adding and editing pages and blocks,492
+1/20/2016,chat,All Topics,2257
+1/20/2016,chat,"Billing, signup and payments",350
+1/20/2016,chat,"Commerce, and managing your store",117
+1/20/2016,chat,Designing your site and managing your template,379
+1/20/2016,chat,Domains and email services,413
+1/20/2016,chat,"Galleries, images, and videos",119
+1/20/2016,chat,Getting Started with Squarespace,208
+1/20/2016,chat,Logging in and managing your account,138
+1/20/2016,chat,SEO and metrics,41
+1/20/2016,email,Adding and editing pages and blocks,224
+1/20/2016,email,All Topics,1419
+1/20/2016,email,"Billing, signup and payments",425
+1/20/2016,email,"Commerce, and managing your store",77
+1/20/2016,email,Designing your site and managing your template,204
+1/20/2016,email,Domains and email services,168
+1/20/2016,email,"Galleries, images, and videos",82
+1/20/2016,email,Getting Started with Squarespace,80
+1/20/2016,email,Logging in and managing your account,105
+1/20/2016,email,SEO and metrics,54
+1/20/2016,emails&chats,All Topics,3676
+1/21/2016,chat,Adding and editing pages and blocks,557
+1/21/2016,chat,All Topics,2280
+1/21/2016,chat,"Billing, signup and payments",325
+1/21/2016,chat,"Commerce, and managing your store",117
+1/21/2016,chat,Designing your site and managing your template,365
+1/21/2016,chat,Domains and email services,390
+1/21/2016,chat,"Galleries, images, and videos",147
+1/21/2016,chat,Getting Started with Squarespace,178
+1/21/2016,chat,Logging in and managing your account,155
+1/21/2016,chat,SEO and metrics,46
+1/21/2016,email,Adding and editing pages and blocks,242
+1/21/2016,email,All Topics,1476
+1/21/2016,email,"Billing, signup and payments",430
+1/21/2016,email,"Commerce, and managing your store",75
+1/21/2016,email,Designing your site and managing your template,209
+1/21/2016,email,Domains and email services,166
+1/21/2016,email,"Galleries, images, and videos",86
+1/21/2016,email,Getting Started with Squarespace,98
+1/21/2016,email,Logging in and managing your account,105
+1/21/2016,email,SEO and metrics,65
+1/21/2016,emails&chats,All Topics,3756
+1/22/2016,chat,Adding and editing pages and blocks,492
+1/22/2016,chat,All Topics,1857
+1/22/2016,chat,"Billing, signup and payments",252
+1/22/2016,chat,"Commerce, and managing your store",97
+1/22/2016,chat,Designing your site and managing your template,320
+1/22/2016,chat,Domains and email services,317
+1/22/2016,chat,"Galleries, images, and videos",101
+1/22/2016,chat,Getting Started with Squarespace,157
+1/22/2016,chat,Logging in and managing your account,75
+1/22/2016,chat,SEO and metrics,46
+1/22/2016,email,Adding and editing pages and blocks,191
+1/22/2016,email,All Topics,1193
+1/22/2016,email,"Billing, signup and payments",347
+1/22/2016,email,"Commerce, and managing your store",63
+1/22/2016,email,Designing your site and managing your template,159
+1/22/2016,email,Domains and email services,132
+1/22/2016,email,"Galleries, images, and videos",64
+1/22/2016,email,Getting Started with Squarespace,102
+1/22/2016,email,Logging in and managing your account,91
+1/22/2016,email,SEO and metrics,44
+1/22/2016,emails&chats,All Topics,3050
+1/23/2016,chat,Adding and editing pages and blocks,1
+1/23/2016,chat,All Topics,1
+1/23/2016,email,Adding and editing pages and blocks,163
+1/23/2016,email,All Topics,824
+1/23/2016,email,"Billing, signup and payments",188
+1/23/2016,email,"Commerce, and managing your store",57
+1/23/2016,email,Designing your site and managing your template,113
+1/23/2016,email,Domains and email services,99
+1/23/2016,email,"Galleries, images, and videos",56
+1/23/2016,email,Getting Started with Squarespace,71
+1/23/2016,email,Logging in and managing your account,45
+1/23/2016,email,SEO and metrics,32
+1/23/2016,emails&chats,All Topics,825
+1/24/2016,email,Adding and editing pages and blocks,199
+1/24/2016,email,All Topics,953
+1/24/2016,email,"Billing, signup and payments",196
+1/24/2016,email,"Commerce, and managing your store",69
+1/24/2016,email,Designing your site and managing your template,124
+1/24/2016,email,Domains and email services,132
+1/24/2016,email,"Galleries, images, and videos",66
+1/24/2016,email,Getting Started with Squarespace,78
+1/24/2016,email,Logging in and managing your account,66
+1/24/2016,email,SEO and metrics,23
+1/24/2016,emails&chats,All Topics,953
+1/25/2016,chat,Adding and editing pages and blocks,501
+1/25/2016,chat,All Topics,2513
+1/25/2016,chat,"Billing, signup and payments",411
+1/25/2016,chat,"Commerce, and managing your store",115
+1/25/2016,chat,Designing your site and managing your template,428
+1/25/2016,chat,Domains and email services,500
+1/25/2016,chat,"Galleries, images, and videos",163
+1/25/2016,chat,Getting Started with Squarespace,229
+1/25/2016,chat,Logging in and managing your account,128
+1/25/2016,chat,SEO and metrics,38
+1/25/2016,email,Adding and editing pages and blocks,330
+1/25/2016,email,All Topics,2036
+1/25/2016,email,"Billing, signup and payments",464
+1/25/2016,email,"Commerce, and managing your store",257
+1/25/2016,email,Designing your site and managing your template,272
+1/25/2016,email,Domains and email services,252
+1/25/2016,email,"Galleries, images, and videos",130
+1/25/2016,email,Getting Started with Squarespace,117
+1/25/2016,email,Logging in and managing your account,131
+1/25/2016,email,SEO and metrics,83
+1/25/2016,emails&chats,All Topics,4549
+1/26/2016,chat,Adding and editing pages and blocks,525
+1/26/2016,chat,All Topics,2301
+1/26/2016,chat,"Billing, signup and payments",317
+1/26/2016,chat,"Commerce, and managing your store",126
+1/26/2016,chat,Designing your site and managing your template,340
+1/26/2016,chat,Domains and email services,428
+1/26/2016,chat,"Galleries, images, and videos",148
+1/26/2016,chat,Getting Started with Squarespace,199
+1/26/2016,chat,Logging in and managing your account,173
+1/26/2016,chat,SEO and metrics,45
+1/26/2016,email,Adding and editing pages and blocks,266
+1/26/2016,email,All Topics,1662
+1/26/2016,email,"Billing, signup and payments",444
+1/26/2016,email,"Commerce, and managing your store",82
+1/26/2016,email,Designing your site and managing your template,239
+1/26/2016,email,Domains and email services,232
+1/26/2016,email,"Galleries, images, and videos",96
+1/26/2016,email,Getting Started with Squarespace,121
+1/26/2016,email,Logging in and managing your account,111
+1/26/2016,email,SEO and metrics,71
+1/26/2016,emails&chats,All Topics,3963
+1/27/2016,chat,Adding and editing pages and blocks,508
+1/27/2016,chat,All Topics,2263
+1/27/2016,chat,"Billing, signup and payments",304
+1/27/2016,chat,"Commerce, and managing your store",122
+1/27/2016,chat,Designing your site and managing your template,385
+1/27/2016,chat,Domains and email services,336
+1/27/2016,chat,"Galleries, images, and videos",202
+1/27/2016,chat,Getting Started with Squarespace,193
+1/27/2016,chat,Logging in and managing your account,159
+1/27/2016,chat,SEO and metrics,54
+1/27/2016,email,Adding and editing pages and blocks,253
+1/27/2016,email,All Topics,1612
+1/27/2016,email,"Billing, signup and payments",485
+1/27/2016,email,"Commerce, and managing your store",74
+1/27/2016,email,Designing your site and managing your template,204
+1/27/2016,email,Domains and email services,175
+1/27/2016,email,"Galleries, images, and videos",89
+1/27/2016,email,Getting Started with Squarespace,109
+1/27/2016,email,Logging in and managing your account,151
+1/27/2016,email,SEO and metrics,72
+1/27/2016,emails&chats,All Topics,3875
+1/28/2016,chat,Adding and editing pages and blocks,469
+1/28/2016,chat,All Topics,1977
+1/28/2016,chat,"Billing, signup and payments",254
+1/28/2016,chat,"Commerce, and managing your store",117
+1/28/2016,chat,Designing your site and managing your template,356
+1/28/2016,chat,Domains and email services,322
+1/28/2016,chat,"Galleries, images, and videos",140
+1/28/2016,chat,Getting Started with Squarespace,181
+1/28/2016,chat,Logging in and managing your account,101
+1/28/2016,chat,SEO and metrics,37
+1/28/2016,email,Adding and editing pages and blocks,242
+1/28/2016,email,All Topics,1445
+1/28/2016,email,"Billing, signup and payments",375
+1/28/2016,email,"Commerce, and managing your store",97
+1/28/2016,email,Designing your site and managing your template,198
+1/28/2016,email,Domains and email services,155
+1/28/2016,email,"Galleries, images, and videos",113
+1/28/2016,email,Getting Started with Squarespace,92
+1/28/2016,email,Logging in and managing your account,115
+1/28/2016,email,SEO and metrics,58
+1/28/2016,emails&chats,All Topics,3422
+1/29/2016,chat,Adding and editing pages and blocks,440
+1/29/2016,chat,All Topics,1997
+1/29/2016,chat,"Billing, signup and payments",297
+1/29/2016,chat,"Commerce, and managing your store",101
+1/29/2016,chat,Designing your site and managing your template,336
+1/29/2016,chat,Domains and email services,320
+1/29/2016,chat,"Galleries, images, and videos",152
+1/29/2016,chat,Getting Started with Squarespace,206
+1/29/2016,chat,Logging in and managing your account,108
+1/29/2016,chat,SEO and metrics,37
+1/29/2016,email,Adding and editing pages and blocks,224
+1/29/2016,email,All Topics,1293
+1/29/2016,email,"Billing, signup and payments",356
+1/29/2016,email,"Commerce, and managing your store",74
+1/29/2016,email,Designing your site and managing your template,170
+1/29/2016,email,Domains and email services,139
+1/29/2016,email,"Galleries, images, and videos",81
+1/29/2016,email,Getting Started with Squarespace,92
+1/29/2016,email,Logging in and managing your account,112
+1/29/2016,email,SEO and metrics,45
+1/29/2016,emails&chats,All Topics,3290
+1/30/2016,chat,Adding and editing pages and blocks,1
+1/30/2016,chat,All Topics,2
+1/30/2016,chat,Logging in and managing your account,1
+1/30/2016,email,Adding and editing pages and blocks,139
+1/30/2016,email,All Topics,707
+1/30/2016,email,"Billing, signup and payments",167
+1/30/2016,email,"Commerce, and managing your store",55
+1/30/2016,email,Designing your site and managing your template,78
+1/30/2016,email,Domains and email services,89
+1/30/2016,email,"Galleries, images, and videos",43
+1/30/2016,email,Getting Started with Squarespace,57
+1/30/2016,email,Logging in and managing your account,51
+1/30/2016,email,SEO and metrics,28
+1/30/2016,emails&chats,All Topics,709
+1/31/2016,email,Adding and editing pages and blocks,149
+1/31/2016,email,All Topics,766
+1/31/2016,email,"Billing, signup and payments",150
+1/31/2016,email,"Commerce, and managing your store",55
+1/31/2016,email,Designing your site and managing your template,91
+1/31/2016,email,Domains and email services,106
+1/31/2016,email,"Galleries, images, and videos",66
+1/31/2016,email,Getting Started with Squarespace,69
+1/31/2016,email,Logging in and managing your account,53
+1/31/2016,email,SEO and metrics,27
+1/31/2016,emails&chats,All Topics,766

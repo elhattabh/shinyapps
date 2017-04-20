@@ -9,13 +9,13 @@ library(xts)
 
 shinyServer(function(input, output) {
   
-  topics <- read.csv("/Users/konafa/Downloads/squarespacetopics.csv")
-  
+  topics <- read.csv(".data/squarespacetopics.csv")
+
   topics$ds<-as.Date(topics$date, format="%m/%d/%Y")    
   topics$y<-as.numeric(topics$count)
   email <- topics[topics$category=="email", c("ds","y"),]
   chat <- topics[topics$category=="chat", c("ds","y"),]
-  data <- read.csv("/Users/konafa/Downloads/xts.csv")
+  data <- read.csv(".data/xts.csv")
     
     data$ds<-as.Date(data$date)
     data$y<-as.numeric(data$count)
