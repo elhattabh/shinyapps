@@ -6,19 +6,18 @@ library(ggplot2)
 library(dygraphs)
 library(xts)
 
-dirname <-  '~/Github/shinyapps/forecast_prophet'
-if (!dir.exists(dirname))dir.create(dirname,recursive=TRUE)
-
-
 shinyServer(function(input, output) {
   
-  topics <- read.csv("../data/squarespacetopics.csv")
-
+  topics <- read.csv("./data/squarespacetopics.csv")
+  data <- read.csv("./data/xts.csv")
+  
+  # topics <- read.csv("/Users/konafa/Desktop/Github/shinyapps/forecast_prophet/data/squarespacetopics.csv")
+  # data <- read.csv("/Users/konafa/Desktop/Github/shinyapps/forecast_prophet/data/xts.csv")
+  
   topics$ds<-as.Date(topics$date, format="%m/%d/%Y")    
   topics$y<-as.numeric(topics$count)
   email <- topics[topics$category=="email", c("ds","y"),]
   chat <- topics[topics$category=="chat", c("ds","y"),]
-  data <- read.csv("./data/xts.csv")
     
     data$ds<-as.Date(data$date)
     data$y<-as.numeric(data$count)
@@ -50,6 +49,8 @@ shinyServer(function(input, output) {
                  uncertainty.samples = 1000, fit = TRUE)
     future <- make_future_dataframe(m, periods=30, freq = "day", include_history = TRUE)
     forecast <- predict(m, future)
-    plot(m, forecast)    
+    plot(m, forecast, xlab="Date", ylab="Count")    
+    
+
   })
 })

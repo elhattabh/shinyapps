@@ -29,9 +29,12 @@ shinyUI(fluidPage(
     ),      
     mainPanel(
       #plotOutput("x"),      
-      h4("Past Data by n of Unique Chats/Emails Tickets:"),
+      h4("Historical Data -- N of Unique Chat/Email Tickets:"),
       dygraphOutput("dygraph"),
-      h4("Forecast for n of Unique Chats/Email Tickets Per Day Per Topic for February:"),
+      h4("
+         
+         
+         Forecast for N of Unique Chat/Email Tickets Per Day by Topic:"),
       plotOutput('forecast')
     
       
